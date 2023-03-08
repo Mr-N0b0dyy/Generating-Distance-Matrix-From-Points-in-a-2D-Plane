@@ -1,0 +1,15 @@
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\bin\Debug\net6.0\05200000096-proje-1-odev-1.exe
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\bin\Debug\net6.0\05200000096-proje-1-odev-1.deps.json
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\bin\Debug\net6.0\05200000096-proje-1-odev-1.runtimeconfig.json
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\bin\Debug\net6.0\05200000096-proje-1-odev-1.dll
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\bin\Debug\net6.0\ref\05200000096-proje-1-odev-1.dll
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\bin\Debug\net6.0\05200000096-proje-1-odev-1.pdb
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\obj\Debug\net6.0\05200000096-proje-1-odev-1.csproj.AssemblyReference.cache
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\obj\Debug\net6.0\05200000096-proje-1-odev-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\obj\Debug\net6.0\05200000096-proje-1-odev-1.AssemblyInfoInputs.cache
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\obj\Debug\net6.0\05200000096-proje-1-odev-1.AssemblyInfo.cs
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\obj\Debug\net6.0\05200000096-proje-1-odev-1.csproj.CoreCompileInputs.cache
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\obj\Debug\net6.0\05200000096-proje-1-odev-1.dll
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\obj\Debug\net6.0\ref\05200000096-proje-1-odev-1.dll
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\obj\Debug\net6.0\05200000096-proje-1-odev-1.pdb
+C:\Users\darkd\source\repos\05200000096-proje-1-odev-1\05200000096-proje-1-odev-1\obj\Debug\net6.0\05200000096-proje-1-odev-1.genruntimeconfig.cache
